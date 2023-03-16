@@ -1,0 +1,14 @@
+{
+  "name": "Ayat",
+  "version": "0.2.0",
+  "description": "Get a verse (an aya) from the Quran during your sessions 💻 stay connected with the words of Allah. 🕋💚",
+  "manifest_version": 3,
+  "author": "A servant of Allah",
+  "action": {
+    "default_title": "Ayat",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "assets/logo.jpg"
+  }
+}
