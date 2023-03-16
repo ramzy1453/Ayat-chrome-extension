@@ -4,6 +4,8 @@
 
 This is a Chrome extension that displays new Quranic Verses (Ayats) everytime clicking button. The extension is designed to provide users with a quick and easy way to read and reflect on verses from the Quran throughout the day.
 
+![Example image](https://media.discordapp.net/attachments/1065356450374877184/1086026339020181594/image.png?width=778&height=408)
+
 ## Installation
 
 1. Download the extension files from the GitHub repository
